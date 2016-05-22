@@ -1,0 +1,1 @@
+{% now "<time datetime="2011-01-12">January 12th, 2011</time>" %}
